@@ -1,0 +1,41 @@
+_repo: Heph0xe6stus-or-The-soul-of-the-machine_73186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fournier d'Albe, E. E. (Edmund Edward)
+    aliases:
+    - Albe, E. E. Fournier d' (Edmund Edward Fournier)
+    - D'Albe, E. E. Fournier (Edmund Edward Fournier)
+    - D'Albe, Edmund Edward Fournier
+    - d'Albe, Edmund Edward Fournier
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '56978'
+    url: http://www.gutenberg.org/2009/agents/56978
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Edward_Fournier_d%27Albe
+description: ''
+gutenberg_issued: '2024-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73186'
+  lccn: '25024462'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015063954013
+pgterms:marc905: 20210616054655dalbe
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Produced by Tim Lindell, Donald Cummings and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: To-day and to-morrow series
+subjects:
+- !lcsh 'Machinery'
+- !lcsh 'Progress'
+- !lcc 'TJ'
+- GITenberg
+title: Hephæstus; or, The soul of the machine
+url: http://www.gutenberg.org/ebooks/73186
