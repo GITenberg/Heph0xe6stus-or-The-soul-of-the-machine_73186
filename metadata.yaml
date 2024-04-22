@@ -1,5 +1,8 @@
 _repo: Heph0xe6stus-or-The-soul-of-the-machine_73186
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73186-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Fournier d'Albe, E. E. (Edmund Edward)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56978
     wikipedia: https://en.wikipedia.org/wiki/Edmund_Edward_Fournier_d%27Albe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73186#Heph0xe6stus-or-The-soul-of-the-machine
 gutenberg_issued: '2024-03-17'
 gutenberg_type: Text
 identifiers:
